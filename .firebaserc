@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "zeth-portfolio"
+  },
+  "targets": {
+    "zeth-portfolio": {
+      "hosting": {
+        "Zeth-Portfolio": [
+          "zeth-portfolio"
+        ]
+      }
+    }
+  }
+}

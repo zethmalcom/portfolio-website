@@ -1,19 +1,6 @@
 {
   "hosting": [
-    {
-      "public": "",
-      "ignore": [
-        "firebase.json",
-        "**/.*",
-        "**/node_modules/**"
-      ],
-      "rewrites": [
-        {
-          "source": "**",
-          "destination": "/index.html"
-        }
-      ]
-    },
+    
     {
       "target": "Zeth-Portfolio",
       "public": "dist/Zeth-Portfolio",

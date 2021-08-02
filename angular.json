@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "Zeth-Portfolio"
+  "defaultProject": "Zeth-Portfolio",
+  "cli": {
+    "analytics": false
+  }
 }
